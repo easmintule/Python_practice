@@ -22,3 +22,5 @@ print("course8 :" + course1[7 :  ]) #course5 :for beginners
 
 print("course9 :" + course1[1 :-1]) #output : ython for beginner
 
+print(len(course1))
+
